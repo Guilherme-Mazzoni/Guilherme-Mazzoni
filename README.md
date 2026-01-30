@@ -1,8 +1,17 @@
-<h1>👋 Olá, eu sou o Guilherme Mazzoni<\h1>
- <ul>
-  <li>💻 Entusiasta de automação, integrações e soluções inteligentes</li>
-  <li>⚙️ Trabalho com n8n, APIs, workflows e otimização de processos</li>
-   
- </ul> 
-📉 Foco em redução de custos operacionais através de tecnologia
-🚀 Sempre buscando soluções simples para problemas complexos
+# 👋 Eaí, eu sou o Guilherme Mazzoni
+
+💻 Entusiasta de **automação, integrações e soluções inteligentes**  
+⚙️ Trabalho com **n8n**, APIs, workflows e otimização de processos  
+📉 Foco em **redução de custos operacionais** através de tecnologia  
+🚀 Sempre buscando soluções simples para problemas complexos  
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 LinkedIn: *(adicione aqui)*
+- 📧 E-mail: *(opcional)*
