@@ -7,7 +7,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgre,aws,git,github,)](https://skillicons.dev)
 
 ---
 
