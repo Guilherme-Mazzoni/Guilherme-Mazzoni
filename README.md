@@ -5,11 +5,9 @@
 📉 Foco em **redução de custos operacionais** através de tecnologia  
 🚀 Sempre buscando soluções simples para problemas complexos  
 
----
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,sqlserver,aws,git,github,powerbi,excel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github,sklearn)](https://skillicons.dev)
 
----
 
 ## 📫 Como me encontrar
 
