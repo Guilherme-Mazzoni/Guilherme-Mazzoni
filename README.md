@@ -1,6 +1,6 @@
 # 👋 Prazer, Guilherme Mazzoni
 
-### 📊 Especialista em Dados & Automação de Processos
+### 📊 Foco em Dados & Automação de Processos
 
 Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, com foco total em transformar dados brutos em inteligência estratégica. Meu objetivo é unir o poder da automação (n8n/APIs) com a análise de dados para otimizar operações e reduzir custos.
 
