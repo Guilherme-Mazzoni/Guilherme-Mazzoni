@@ -1,6 +1,6 @@
 # 👋 Prazer, Guilherme Mazzoni
 
-### 📊 Foco em Dados & Automação de Processos
+### 📊 Especialista em Dados & Automação de Processos
 
 Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, com foco total em transformar dados brutos em inteligência estratégica. Meu objetivo é unir o poder da automação (n8n/APIs) com a análise de dados para otimizar operações e reduzir custos.
 
@@ -13,6 +13,7 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
 * **Eficiência Operacional:** Redução de processos manuais através de tecnologia e integrações.
 
 ---
+
 ### 🧰 Stack Tecnológica
 
 **Linguagens e Ciência de Dados**
@@ -49,12 +50,17 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
 
 ### 📫 Vamos conversar?
 
-* **LinkedIn:** [Guilherme Mazzoni]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/guilherme-mazzoni-ti/))
+* **LinkedIn:** [Guilherme Mazzoni](https://www.linkedin.com/in/guilherme-mazzoni-ti/)
 * **E-mail:** [guicm120@gmail.com](mailto:guicm120@gmail.com)
 
 ---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mazzoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mazzoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mazzoni&layout=compact&theme=dark" alt="Top Langs" height="170" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Mazzoni&theme=dark" alt="GitHub Streak" />
+</div>
