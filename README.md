@@ -52,15 +52,3 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
 
 * **LinkedIn:** [Guilherme Mazzoni](https://www.linkedin.com/in/guilherme-mazzoni-ti/)
 * **E-mail:** [guicm120@gmail.com](mailto:guicm120@gmail.com)
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Mazzoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Mazzoni&layout=compact&theme=dark" alt="Top Langs" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Mazzoni&theme=dark" alt="GitHub Streak" />
-</div>
