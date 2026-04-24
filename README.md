@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Guilherme Mazzoni
+# 👋 Prazer, Guilherme Mazzoni
 
-### 📊 Especialista em Dados & Automação de Processos
+### 📊 Foco em Dados & Automação de Processos
 
 Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, com foco total em transformar dados brutos em inteligência estratégica. Meu objetivo é unir o poder da automação (n8n/APIs) com a análise de dados para otimizar operações e reduzir custos.
 
@@ -13,7 +13,6 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
 * **Eficiência Operacional:** Redução de processos manuais através de tecnologia e integrações.
 
 ---
-
 ### 🧰 Stack Tecnológica
 
 **Linguagens e Ciência de Dados**
@@ -21,12 +20,7 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</div>
-
-**Bancos de Dados**
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 **Visualização de Dados e BI**
@@ -36,18 +30,26 @@ Atualmente, estou me graduando em **Análise e Desenvolvimento de Sistemas**, co
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-**Automação e Cloud**
+**Bancos de Dados e Infra**
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+**Automação e Ferramentas**
 <div align="left">
   <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
 
 ### 📫 Vamos conversar?
 
-* **LinkedIn:** [Seu Nome Aqui](https://linkedin.com/in/seu-usuario)
+* **LinkedIn:** [Guilherme Mazzoni]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/guilherme-mazzoni-ti/))
 * **E-mail:** [guicm120@gmail.com](mailto:guicm120@gmail.com)
 
 ---
